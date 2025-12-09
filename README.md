@@ -52,9 +52,3 @@ A full discussion and analysis of results can be found in the **Results & Discus
 - Neural sequence encoders
 - DataLoader batching and padding in PyTorch
 
-## 📝 Author
-Final project for the **Data Science program (USP/ESALQ)**.
-
----
-Feel free to customize this README based on new results or updates to the project.
-
