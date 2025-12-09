@@ -4,19 +4,11 @@ This repository contains the code, experiments, and analysis for a final project
 
 ## 📌 Project Overview
 The goal of this project is to evaluate different machine learning approaches for modeling financial time series, including:
-- Temporal train/validation/test splits that respect temporal ordering
+- Temporal train/test splits that respect temporal ordering
 - Labeling strategies for forecasting windows
 - Evaluation of sequence embedding models
 - Comparison of pooling strategies and classification performance
 
-## 📁 Repository Structure
-```
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Jupyter notebooks with experiments
-├── src/                  # Helper scripts for preprocessing, modeling, evaluation
-├── results/              # Metrics, plots, tables
-└── README.md             # This file
-```
 
 ## 📊 Experiments Included
 - Non-leaky train/validation/test splitting
@@ -42,7 +34,6 @@ The goal of this project is to evaluate different machine learning approaches fo
 ## 📈 Results Summary
 A full discussion and analysis of results can be found in the **Results & Discussion** section of the notebook, including:
 - Model accuracy
-- Error analysis
 - Impact of different window sizes
 - Comparison of pooling strategies
 
