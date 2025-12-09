@@ -16,21 +16,6 @@ The goal of this project is to evaluate different machine learning approaches fo
 - Embedding generation using custom pipeline models
 - Testing different pooling strategies such as mean, max, attention
 
-## 🚀 Running the Project
-1. Create a virtual environment:
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the main notebook:
-   ```bash
-   jupyter notebook notebooks/time-series-final-project.ipynb
-   ```
-
 ## 📈 Results Summary
 A full discussion and analysis of results can be found in the **Results & Discussion** section of the notebook, including:
 - Model accuracy
